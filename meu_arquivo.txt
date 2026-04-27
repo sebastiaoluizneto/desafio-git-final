@@ -1,1 +1,1 @@
-Descrição feita na branch MASTER
+Descrição feita na branch MASTER e também na MINHA-BRANCH
